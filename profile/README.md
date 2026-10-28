@@ -37,7 +37,7 @@ Add Sonara to your Lavalink `application.yml`:
 ```yaml
 lavalink:
   plugins:
-    - dependency: "com.github.SonaraHQ:Sonara:1.1.0"
+    - dependency: "com.github.SonaraHQ:Sonara:1.1.1"
       repository: "https://jitpack.io"
 ```
 
