@@ -4,7 +4,7 @@
 
 ### Music sources for Lavalink.
 
-[**Sonara**](https://github.com/SonaraHQ/Sonara) · [**Sonara-API**](https://github.com/SonaraHQ/Sonora-API) · [**Lavalink**](https://lavalink.dev/)
+[**Sonara**](https://github.com/SonaraHQ/Sonara) · [**Sonara-API**](https://github.com/SonaraHQ/Sonara-API) · [**Lavalink**](https://lavalink.dev/)
 
 </div>
 
@@ -21,7 +21,7 @@ It is a fork of [PulseLink](https://github.com/ItzRandom23/PulseLink), which is 
 | Repository | What it is |
 |---|---|
 | [**Sonara**](https://github.com/SonaraHQ/Sonara) | The Lavalink plugin (Java). Audio sources, mirroring, LavaSearch and LavaLyrics support. |
-| [**Sonara-API**](https://github.com/SonaraHQ/Sonora-API) | A self-hosted Spotify resolver (Node.js). Loads playlists and recommendations through Spotify's web player API, including Spotify-made playlists such as Daily Mix and Top 50, and serves an anonymous Spotify token. |
+| [**Sonara-API**](https://github.com/SonaraHQ/Sonara-API) | A self-hosted Spotify resolver (Node.js). Loads playlists and recommendations through Spotify's web player API, including Spotify-made playlists such as Daily Mix and Top 50, and serves an anonymous Spotify token. |
 
 ### What Sonara adds
 
@@ -41,7 +41,7 @@ lavalink:
       repository: "https://jitpack.io"
 ```
 
-Then configure it under `plugins.sonara`. See the [Sonara README](https://github.com/SonaraHQ/Sonara#readme) and [`application.example.yml`](https://github.com/SonaraHQ/Sonara/blob/main/application.example.yml) for every option, and the [Sonara-API README](https://github.com/SonaraHQ/Sonora-API#readme) to host your own Spotify resolver.
+Then configure it under `plugins.sonara`. See the [Sonara README](https://github.com/SonaraHQ/Sonara#readme) and [`application.example.yml`](https://github.com/SonaraHQ/Sonara/blob/main/application.example.yml) for every option, and the [Sonara-API README](https://github.com/SonaraHQ/Sonara-API#readme) to host your own Spotify resolver.
 
 ### Credits
 
